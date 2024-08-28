@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DARK-PERSON-404](https://github.com/DARK-PERSON-404)
 
-- 📝 I regularly write articles on [https://heartwaves404.blogspot.com/](https://heartwaves404.blogspot.com/)
+- 📝 I regularly write articles on [https://mr-dark-404.blogspot.com/](https://mr-dark-404.blogspot.com/)
 
 - 💬 Ask me about **unique questions**
 
@@ -30,8 +30,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=The.Gravibility.link.404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=mr.tom.xxx.2.0x.2.0" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtu.be/kzvwgpiygcg?si=z6gdeocs_zvey5gg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtu.be/kzvwgpiygcg?si=z6gdeocs_zvey5gg" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=The.Gravibility.link.404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=The.Gravibility.link.404" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@The.Gravibility.link.404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtu.be/kzvwgpiygcg?si=z6gdeocs_zvey5gg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
